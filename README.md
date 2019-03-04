@@ -11,7 +11,7 @@ so Fork it, Learn from it, And Play with it.
 for Contributions please refer to "images" folder.
 
 ## How to see live result
-Live preview can be seen on Blog(https://immanishbainsla.github.io/blog)
+Live preview can be seen on Blog(https://immanishbainsla.github.io/blog-template-1)
 
 ## Contributors
 1. Nyaz Khan(https://github.com/nyazkhan)
