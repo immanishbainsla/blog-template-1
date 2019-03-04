@@ -1,0 +1,61 @@
+/*Custom CSS*/
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+
+}
+p{
+    margin: 0 !important;
+}
+body{
+    height: 100%;
+    
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+#body-container{
+    width: 100vw !important;
+    height: 100vh !important;
+}
+
+img{
+    width: 270px;
+    height: 166px;
+}
+
+#menu-btn{
+    margin-top: 10vh;
+}
+
+#main-left{
+/*    min-height: 780px !important;*/
+}
+
+#main-right{
+/*    min-height: 780px !important;*/
+    overflow-y: auto;
+}
+ul{
+    margin: 0 !important;
+
+}
+
+.button{
+    width: 150px;
+}
+
+ul li {
+    margin: 0 10px;
+    display: inline-block;
+    
+
+}
+ul li a{
+    color: white;
+}
